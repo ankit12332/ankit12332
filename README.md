@@ -49,18 +49,6 @@
   <img src="https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" />
 </p>
 
-## 🏆 Certifications
-
-<div align="center">
-  <img src="https://youranimationcdn.com/yourusername/certifications-animation.gif" alt="Certifications Animation" width="400" height="300" />
-</div>
-
-- The Fundamentals of Digital Marketing
-- Introduction to Serverless Development
-- CorelDRAW for Beginners: Graphic Design in Corel Draw
-- Collections Specialist
-- Complete Wordpress Website Developer Course
-
 ## 🎨 Projects Showcase
 
 ### Document Management System Software
