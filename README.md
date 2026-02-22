@@ -131,14 +131,14 @@
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit12332&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=ankit12332&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak Stats" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankit12332&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=ankit12332&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak Stats" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit12332&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankit12332&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="40%" />
 </div>
 
 <br/>
